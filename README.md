@@ -28,7 +28,7 @@ Briefly introduce your Node.js project template. Explain its purpose and advanta
 
 ### Installation
 
-1. Clone this repository: `git clone https://github.com/yourusername/node-project-template.git`
+1. Clone this repository: `git clone https://github.com/allcodesnick/web-dev-template`
 2. Change into the project directory: `cd node-project-template`
 3. Install dependencies: `npm install`
 
